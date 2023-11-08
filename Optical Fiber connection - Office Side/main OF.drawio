@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:46:56.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="x-LCEbfHeM4hFDol8ob8" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:08:10.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="gehEFR3XgwJ-D1WtkhB7" version="22.0.8" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
-    <mxGraphModel dx="1562" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,32 @@
         <mxCell id="yyix4hzH2c3j0yXBwJ8c-174" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Standalone.svg;imageBackground=none;fillStyle=auto;imageBorder=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="500" width="45.6" height="37.2" as="geometry" />
         </mxCell>
-        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-19" value="LWL" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10" y="510" width="180" height="50" as="geometry" />
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-19" value="LWL" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="510" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-25" value="Budi" style="rounded=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;fontSize=16;flipH=0;labelBorderColor=none;labelBackgroundColor=none;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="193" y="510" width="120" height="50" as="geometry" />
+          <mxGeometry x="50" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-26" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;BackBone fertig&lt;/b&gt;: once the installation til MLS in Rack is done.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Fertig&lt;/b&gt;: once the complete installation til all Splice Boxes in all Offices is done.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="708" width="570" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-33" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-34" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-37" value="Dark Fiber" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vqkp-jwRN8CIVi1Nj_NX-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-70" y="510" as="sourcePoint" />
+            <mxPoint x="10" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-40" value="VT Ethernet" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-70" y="560" as="sourcePoint" />
+            <mxPoint x="50" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
