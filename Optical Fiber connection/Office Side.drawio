@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T01:14:55.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="_9b4DzE7SQT7Z8H2aHmP" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T01:17:06.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="O7C9jhGTR2Xer1HC1vdU" version="22.1.4" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="2665" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="66" y="138" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-26" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Backbone fertig&lt;/b&gt;: once the installation til MLS in Rack is done.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Komplett&lt;/b&gt;: once the entire installation til all Splice Boxes in all Offices is done.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-357" y="1060" width="627" height="71" as="geometry" />
+          <mxGeometry x="-597" y="730" width="627" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Vqkp-jwRN8CIVi1Nj_NX-34" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="400" width="20" height="160" as="geometry" />
